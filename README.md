@@ -81,7 +81,7 @@ The dataset is organized into several sections:
 ### Database Schema
 The data aligns with a relational database schema, as shown in the Entity-Relationship Diagram (ERD) below:
 
-![ERD Diagram](path/to/erd_diagram.png)
+![ERD Diagram](https://github.com/mahmoudmousa-ds/Excel-Sales-Analysis-Project/blob/main/Data%20Modelling%20Schema.png)
 
 The schema includes tables for `Employees`, `Customers`, `Orders`, `OrdersDetails`, `Products`, `Suppliers`, `Shippers`, and `Categories`, with relationships defined by foreign keys.
 
